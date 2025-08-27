@@ -11,11 +11,6 @@ The following core modules have been automated:
 * **Cart**
 * **Checkout**
 
-A total of **51 key test cases** have been written, covering both positive and negative scenarios for each module. A state-transition flow of test cases is designed to simulate a user's journey of buying a product from the site.
-
-The automation script is configured to take a screenshot at the point of failure for any failed test cases.
-
-You can view the detailed test cases in the [Excel file](https://docs.google.com/spreadsheets/d/1Bf8-4S0s5-1u2K2C2b2n5F2z1_q_h-4Q/edit?usp=sharing).
 
 ## Technology Stack
 
